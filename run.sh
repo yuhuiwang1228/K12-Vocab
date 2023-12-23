@@ -5,13 +5,11 @@
 # pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 python extract_vocab_v2.py \
-    --data_dir "./初中英语资料/电子课本" \
-    --data_file "./初中英语资料/电子课本/人教新目标初中英语九年级全册电子教科书（电子课本）.pdf" \
-    --cache_dir "./初中英语资料/电子课本/cache" \
-    --output_dir "./初中英语资料/电子课本/output" \
-    --exist_words_path "./初中英语资料/电子课本/cache/电子课本_grade_8_B_exist_words.json" \
-    --chapter '人教版九全' \
-    --unit_file './Snow.xlsx' \
+    --data_file "./人教版电子课本/小学/人教新起点英语1A电子课本.pdf \
+    --cache_dir "./cache" \
+    --output_dir "./output" \
+    --chapter '1_A' \
+    --unit_file './content.xlsx' \
     --do_cache
 
 # data_file="${ebook_folder}/人教版Go for it英语七年级上册高清电子课本（清晰PDF）.pdf"

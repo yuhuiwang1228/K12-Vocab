@@ -35,21 +35,27 @@ stop_english_vocab = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer()
 
-def extract_title(args, data_file):
+def extract_title(data_file):
     logger.info("***** extracting title *****")
-    grade_pat = re.compile(r'([一二三四五六七八九])+年级')
-    term_pat = re.compile(r'([上下全])册?')
+    primary_pat = re.compile(r"(\d)([A-C])")
+    junior_pat = re.compile(r'([一二三四五六七八九])+年级英语([上下全])册?')
+    senior_pat = re.compile(r'([(必修)|(选修)])(\d)?')
 
-    grade_dict = {'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9}
-    term_dict = {'上':'A','下':'B','全':'C'}
+    grade_dict = {'一':'1','二':'2','三':'3','四':'4','五':'5','六':'6','七':'7','八':'8','九':'9', '必修':'R','选修':'E'}
+    term_dict = {'上':'A','下':'B','全':'C', '1':'A','2':'B','3':'C','4':'D'}
 
-    grade_res = grade_pat.search(data_file)
-    grade = grade_dict[grade_res.group(1)]
+    res = primary_pat.search(data_file)
+    if res==None:
+        res = junior_pat.search(data_file)
+        if res==None:
+            res = senior_pat.search(data_file)
+        grade = grade_dict[res.group(1)]
+        term = term_dict[res.group(2)]
+    else:
+        grade = res.group(1)
+        term = res.group(2)
 
-    term_res = term_pat.search(data_file)
-    term = term_dict[term_res.group(1)]
-
-    return grade, term, unit
+    return grade,term
 
 def extract_pdf(args, cache_file):
     logger.info("***** extracting pdf *****")
@@ -64,28 +70,18 @@ def extract_pdf(args, cache_file):
     with open(cache_file, 'w', encoding='utf-8') as file:
         file.write(text)
 
-def extract_unit_details(filename):
-    logger.info("***** extracting unit details *****")
-    match = re.search(r'Unit( *\d+)(.+?)\.docx', filename)
-    if match:
-        unit_id = int(match.group(1).strip())
-        unit_title = match.group(2).strip()
-        return unit_id, unit_title
-    else:
-        return float('inf'), ""
-
 def extract_unit_list(unit_file):
     logger.info("***** extracting unit list for all textbooks *****")
     df = pd.read_excel(unit_file)
-    chapter_list = list(df.iloc[:,0].dropna().values)
+    term_list = list(df.iloc[:,0].dropna().values)
     unit_list_all = df.iloc[:,1].dropna().values
     unit_list_all = [unit for unit in unit_list_all if unit.startswith('Unit')]
     unit_list_dict = defaultdict(list)
     index = 0
     n = len(unit_list_all)
-    for chapter in chapter_list:
+    for term in term_list:
         for i in range(index, n):
-            unit_list_dict[chapter].append(unit_list_all[i])
+            unit_list_dict[term].append(unit_list_all[i])
             if i<n-1 and unit_list_all[i+1].startswith('Unit 1 '):
                 index = i+1
                 break
@@ -100,7 +96,8 @@ def get_unit_list(args, cache_file, unit_list):
     true_unit_list = []
     p = 0
 
-    skip_content = False if args.data_type == '教师用书' else True
+    # skip_content = False if args.data_type == '教师用书' else True
+    skip_content = False
     for i,unit in enumerate(unit_list):
         seq_len = len(unit)
         for j in range(p, len(text)-seq_len):
@@ -120,8 +117,10 @@ def process_text(text):
     english_words = [word.lower() for word in english_words if word.isalpha()]
     standard_english_words = [word for word in english_words if word in standard_english_vocab and len(word)>1]
     lemmatized_words = [lemmatizer.lemmatize(word) for word in standard_english_words]
-    stemmed_words = [stemmer.stem(word) for word in lemmatized_words]
+    # stemmed_words = [stemmer.stem(word) for word in lemmatized_words]
     vocab = Counter(lemmatized_words)
+    vocab = list(vocab.items())
+    vocab.sort()
     return vocab
 
 def get_vocab_standard(args, cache_file, output_file, grade, term, unit_list):
@@ -213,12 +212,12 @@ def main():
         level=logging.INFO  # Set to log INFO and higher level messages
     )
 
-    grade, term, _ = extract_title(args, data_file)
+    grade, term = extract_title(args.data_file)
     cache_file = os.path.join(args.cache_dir, f"{args.data_type}_grade_{grade}_{term}.txt")
     output_file = os.path.join(args.output_dir, f"{args.data_type}_grade_{grade}_{term}.json")
 
     unit_list_dict = extract_unit_list(args.unit_file)
-    standard_unit_list = unit_list_dict[args.chapter]
+    standard_unit_list = unit_list_dict[grade+term]
     
     if args.do_cache:
         extract_pdf(args, cache_file)
