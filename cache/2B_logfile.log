@@ -1,0 +1,5 @@
+12/25/2023 18:04:35 - INFO - __main__ -   ***** extracting pdf *****
+12/25/2023 18:04:35 - INFO - __main__ -   Convert pdf to images
+12/25/2023 18:04:45 - INFO - __main__ -   Convert images to txt
+12/25/2023 18:06:43 - INFO - __main__ -   ***** getting vocabulary *****
+12/25/2023 18:06:44 - INFO - __main__ -   saved json formatted vocabulary

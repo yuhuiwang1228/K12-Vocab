@@ -1,0 +1,22 @@
+12/25/2023 05:05:09 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/25/2023 05:05:09 - INFO - __main__ -   ***** extracting pdf *****
+12/25/2023 05:05:09 - INFO - __main__ -   Convert pdf to images
+12/25/2023 05:05:41 - INFO - __main__ -   Convert images to txt
+12/25/2023 05:16:49 - INFO - __main__ -   ***** getting vocabulary *****
+12/25/2023 05:16:49 - INFO - __main__ -   ***** processing text Unit 1 Where did you go on vacation? *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit2 How often do you exercise?
+ *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit3 I’m more outgoing than my sister.
+ *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit4 What’s the best movie theater?
+ *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit 5 Do you want to watch a game show? *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit6 I’m going to study computer science.
+ *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit 7 Will people have robots? *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit 8 ”How do you make a banana milk shake *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit9 Can you come to my party?
+ *****
+12/25/2023 05:16:51 - INFO - __main__ -   ***** processing text Unit10 Ifyou go to the party, you'll have a great time!
+1 *****
+12/25/2023 05:16:52 - INFO - __main__ -   saved json formatted vocabulary

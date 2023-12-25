@@ -1,0 +1,2461 @@
+)
+
+点
+BA
+
+ae
+
+(
+
+Felt
+
+=
+ae
+XK
+kr
+
+务 教
+
+区
+
+SH be the An PH
+义务 教育 教科 书
+
+v
+
+Copyright © 2013 by People’s Education Press Ltd. and Lingo Learning Inc.
+No part of this publication may be reproduced or transmitted in any form or by any means,
+without permission in writing from the publisher.
+
+版 权 共 有 ， 未 经 出 版 社 书面 同意 ， 任 何人 不 得 以 任何 形式 或 方式 复制 或 转换 本 作品 的 任何 部 分
+
+主 编 : 吴 欣 Larry Swartz Beth Levy
+副 主编: 陶 明 天 [lapis
+
+主要 编写 人 员 : 刘 Se (北京 师范 大 学 实验 小 学 ) 下 ERE MD
+He 燕 wk & if 生平 BlMayes
+
+封面 设计 : A AEE
+版 式 设计 : FERRE 张 it
+ti 图 : 李 思 东 工作 室
+北京 吴 天 文化 传播 有 限 公 书
+
+义务 教育 教科 书
+英 请
+(一 年 级 起 点 )
+四 年 级 下 册
+(中 fA) 人 民 教 育 出 版 社 课程 教材 研究 所
+英语 课程 教材 研究 开发 中 心 编著
+(加 拿 大 ) 灵 通 教 育 有 限 A 司
+*
+AAA A 6 1 RA
+网 址 : http://www. pep. com. cn
+AK Ae dix rh REV ER 全 国 新 华 书店 经 销
+*
+开本 : 787 毫米 x1 092 BK 1/16 印张 : 5.5 字数 : 110 000
+2014 年 10 月 第 1 版 2014 年 12 月 第 1 次 印刷
+ISBN 978 -7-107-29067 -1 定价 : 5.70 元
+著作 权 所 有 “ 请 勿 擅 用 本 书 制 作 各 类 出 版 物 ， 违 者 必 究
+ie 装 质量 问题 ， 影 响 阅 读 ， 请 与 本 社 出 版 二 科 联 系 调换 。
+(联系 地 址 : 北京 市 海淀 区 中 关 村 南大 街 17 号 院 1 号 楼 邮编 : 100081)
+
+绿色 印刷 保护 环境 ”爱护 健康
+
+亲爱 的 同学
+从 Ft 中 的 这 本 和 书 采用 绿色 印刷 方式 印 制
+if 区 出 版 并 使 用 的 义务 教育 阶段 中 小 s
+境 标准 ( HJ2503-2011 )《 环 境 标 技术 要 求 ” 印 刷 ， 第 一 部 分 : 平版 印刷 》， 绿 色 印 刷 选
+型 纸张 、 油 黑 、 胶水 等 原 铺 机 料 ， 生 产 过 程 注重 节能 减 排 ， 印 刷 产品 符合 人 体 健康 要 求
+wT EAR Ie Po. 支持 绿色 印刷 ， 计 择 绿色 印 剖 产品 ， 共同 关爱 环境 ， 一 起 健康 成 长 !
+北京 市 绿色 印刷 工程
+
+在 它 的 封底 印 有 "绿色 印刷 产品 ”标志 。 从 2013 年 秋季 学
+斗 书 全 部 采用 绿色 印刷 。
+
+致 同学
+
+亲爱 的 同学 :
+
+你 好 ! 欢迎 回 到 “新 起 点 英语 ”的 世界 。
+
+在 这 里 ， 你 除了 通过 听 、 说 、 玩 、 演 、 唱 等 形式 享受 英语 世界
+的 乐趣 ， 还 将 通过 读 和 写 来 享受 英语 世界 的 乐趣 。 作 为 四 年 级 的 学
+生 ， 在 阅读 方面 ， 你 只 要 能 读 懂 小 短文 或 小 故事 的 大 意 就 可 以 了 ;
+在 写 的 方面 ， 你 只 要 能 模仿 范例 ， 通 过 替换 关键 词 写 出 几 句 连续 的
+话 就 可 以 了 。
+
+同时 ， 你 将 继续 学 习 “ 自 然 拼 读 ”魔法 。 经 过 三 年 多 的 学 习 ，
+你 已 经 能 够 听 懂 、 会 说 很 多 英语 单词 了 ， 但 不 一 定 能 认 读 和 拼写 这
+些 单词 。“ 自 然 拼 读 ” 魔 法 能 帮 你 拼 出 它们 的 读音 、 更 快 地 记 住 它
+们 的 写法 。 同 时 ,自然 拼 读 " 魔 法 也 能 帮 你 更 快 地 记 住 全 新 的 单词 。
+你 储备 的 单词 越 多 ， 读 、 写 英文 的 乐趣 就 越 多 。 所 以 ， 好 好 学 习 这
+个 魔法 吧 。
+
+最 后 ， 别 忘 了 这 个 小 窍门 : 在 阅读 小 短文 或 小 故事 之 前 ， 先 看
+看 它 的 标题 和 插图 ， 大 致 猜测 一 下 它 的 内 容 再 去 阅读 ， 这 能 帮助 你
+理解 得 更 快 、 更 好 。 在 阅读 过 程 中 ， 如 果 碰 到 不 认识 的 单词 ， 可 以
+根据 插图 和 上 下 文 猜 猜 它 的 意思 ; 或 者 用 “自然 拼 读 ”魔法 拼 出 它
+的 读音 ， 没 准 你 就 知道 它 的 意思 了 。
+
+好 了 ， 现 在 就 让 我 们 继续 “新 起 点 英语 ”之 旅 吧 。
+编 者
+2013 年 5 月
+Unit 1 My Neighbourhood:--- 2
+Unit 2 Cities - Sere: seein im 12
+Unit 3 Travel Plans …………… 22
+Bavision 1 dees BS
+Unit 4 Hobbies pp 38
+Unit 5 Free Time ia vee sisi 48
+ao 本
+
+Revision 2 Pee Haale cece ee eens 68 :
+
+| 附录 三 PAIL wee eee ee eee eee 80
+
+Yaoyao
+
+Bill
+
+Binbin
+
+Lucky
+
+ro
+Excuse me.
+
+\ Where is the hospital? ，
+
+Go Te itn,
+| It’s on your right.
+It’s next to the restaurant.) %.
+
+~ Excuse me.
+
+| How can I get to | |
+bo post office? —o i
+\. ‘Go straight and turn left
+
+_ at the first crossroads. __
+It’s between the bookshop
+wa ana the Grocery ,
+@ Look, listen and it L
+
+restaurant i
+
+\ across from
+
+next to
+
+|
+
+@ Look and say. 人
+
+i: : UKU 6
+02 bookshop supermarket
+bank
+restaurant
+post office
+grocery
+cinema
+Baiyun Park - :
+Z 2 ee
+ae It’s between ~~
+‘Where is the bank? | 7 | the supermarket |
+oO ana. Sunday Park. 一
+
+@ Let's write.
+
+@ Look, listen and repeat. Gp
+
+Man: Excuse me. Is there a post
+office in the neighbourhood?
+: Yes, there is.
+
+: How can I get there?
+
+: Go straight and turn left
+at the first crossroads.
+It's between the bookshop
+and the grocery.
+
+: Thank you.
+
+ily: You're welcome.
+
+(How ca me.
+. How can I get to
+
+\ the bost office? =.
+/ GO straight a and
+
+| turn right at the |
+first crossroads. |
+
+NE on your right. /
+‘ 一
+
+(You’re welcome. )
+
+ra
+
+(Thank you. 由]
+
+@ Let's write.
+
+@ Read and draw the route. 人
+
+bookshop post office
+
+bank — restaurant
+
+Supermarket
+
+Bic a
+park cinema
+
+Lucky’s home grocery
+
+Bill asks Lucky to send a book to his friend. “Lucky, get some
+money from the bank, and then get to the post office before 4:30."
+
+Lucky leaves at 3:30. He goes straight and turns left at the
+second crossroads. He sees the bank next to a restaurant. He gets
+some money and then goes into the restaurant. There he eats a
+hamburger. Then he sees a toy shop across from the restaurant.
+Lucky wants a toy, so he buys a ball. Finally, Lucky gets to the post
+office, but it's 5:00. Oh no!
+
+@ Read again and write.
+
+How can Lucky get to the bank from his home?
+
+He can go and turn at the second
+crossroads. It is the restaurant.
+How can Lucky get to the ?
+
+He can go
+
+It is
+@ Listen, point and repeat. gp
+
+LEE
+
+day say May
+@ Read aloud. Then listen and check. 人
+rain jail raid fail day ray- bay hay
+
+@ Listen and write. 4
+
+1.Itisa in
+Ea 2. There is on the .
+| BEIJING
+ae | MONDAY
+3. They it will | eights
+| w-250 2 e's
+
+® Listen and repeat. ¢ p
+
+Rain, rain, go away.
+
+Today, today is a holiday.
+
+Rain, rain, go away.
+
+It's time for fun. It's time to play.
+
+@ Listen and fill in the blanks. @p
+
+@
+A. grocery
+B. bank
+C. restaurant
+D. post office
+
+school _ bookshop
+
+Joy’s home
+
+@ Read, draw the route and write.
+
+Joy's mum has a busy morning. First, she takes Joy to school.
+From home, they go straight and turn left at the second
+crossroads. Joy's school is on the right. Then, Joy's mum goes
+to Happy Shop to buy a pair of shoes. The shop is next to the
+bank. Finally, she goes to the supermarket. It is between the
+library and the hospital. She buys some food for dinner there.
+
+Now she is going home. How can she get home from the
+supermarket?
+
+Go straight and at the first crossroads.
+
+Her home is
+
+@ Self-assessment.
+
+8
+€@ Good to know. 人
+
+Drugstore
+Are you sick? You can go to the
+drugstore to buy medicine. You can
+also buy some food and drinks there.
+
+Hairdresser's
+Do you like long hair or short hair?
+Do you want to look special? Go to
+the hairdresser's for a haircut.
+
+Coffee Shop
+You can drink coffee in a coffee shop.
+You don't like coffee? You can also drink
+hot chocolate. It is delicious!
+
+Gas Station
+Does your car need gas? You can
+buy gas in the gas station. You can
+also buy some candy and drinks
+there, too.
+
+@ Let's make.
+
+@ Let's sing. Gp :
+@® Let's read. Gp
+
+“Pmin n front of .
+the museum. |
+
+2 Le are YOU? 1
+AN
+
+Where are re you? )
+
+“Pm in front of
+the restaurant.
+
+David and Bob want to visit the museum together. avid
+calls Bob for directions.
+
+Go sti straight. Turn left 本
+ak the second crossroads. | J
+
+F Pmin front of a bank now.
+How can I get to the museum?
+
+David follows the directions, but he is not at the museum.
+He is at a bank! He calls.
+rm in front o {Can you seea grocery?’
+
+\_ How can I get to the SEU? _} It’s across from the
+| post office. Go there.
+
+grocery now. How can I om in front of
+I get to the museum?/|| the museum.
+-寺中 | \ Where are you? ? 4
+
+ae
+
+ay ye =
+is ¢ I'm right >
+behind you.
+
+了 i 4 us a i 有 i
+Po ir ee oa I
+TI IT |
+了 | | | ，
+
+ol
+
+>
+
+How can I get to
+the sports centre
+“ATH
+
+== Where is the toy shop?
+\ How can I get there? ,
+
+}) You can take a bus._/
+
+ee eer ee
+
+=
+
+和
+
+13
+@ Look, listen and repeat. 人
+
+[HS OS A
+AY
+
+inna
+
+Excuse me.
+‘Where is the square?)
+
+A eee
+
+\ (It’s across from
+= the hotel,
+
+Se
+
+<- 一 一
+=
+
+@ Look, listen and repeat. Gp
+
+Girl: Excuse me. Where is the toy shop?
+I want to buy some toys.
+
+Bill: It's on Banana Street. There are a
+lot of interesting toys there.
+
+Girl: How can I get there?
+
+Bill: You can take a bus. The toy shop
+is between a cinema and a park.
+
+Girl: Great! Then I can see a film and
+go boating too.
+
+Bill: Wow! You'll have a busy day.
+
+a ‘Excuse me. How can I~ cl eee
+get to the sports centre? ) ( You can take the subway. »
+The subway station is
+
+—__ next to the hotel. ua
+
+(Thank you.
+
+You’ re e welcome.
+
+@ Read and fill in the chart. @p
+
+This city is very The sports Central Square City Museum
+interesting. centre is on is on Hill Street. is on Dream
+There are many King Street. It is very Street. You ©
+fun places to You can play beautiful. You can see many
+see and things ball games and can fly kites interesting old
+to do. Come swim there. You and take photos things there.
+stay with us at can go there there. Youcan The museum is
+
+Star Hotel! Our by subway.Go ”go there by bus. near the hotel.
+hotel is inthe — straight and The bus stop It is across
+centre of the  turnleftatthe isbetweenthe from the
+
+city. first crossroads. hotel and the subway station.
+
+The subway bookshop.
+station is on the
+
+i
+
+| location | transportation activities |
+a= centre | King Street | |
+
+| Central Square | by bus
+] see interesting old things |
+
+| City Museum |
+
+|
+|
+
+@ Read again and write.
+
+Where is the sports centre?
+
+How can you get there from the hotel?
+
+What can you do there?
+
+16
+@ Listen, point and repeat. Gp
+
+二
+
+boat coat goat
+@ Read aloud. Then listen and check. Gp
+
+snow bow blow low boat load toad goal
+@ Listen and write. Gp
+
+1. There is a next to the
+
+2. Look at the on the
+
+3. Where ismy ee
+® Listen and repeat. Gp
+
+Outside my window,
+I see a yellow boat.
+I see a little toad,
+And I see a big goat.
+
+@ Listen and match. 4p
+
+cinema
+
+@® Read and fill in the blanks.
+
+Look, this is a map of my city. There are so many fun places in my
+city. There is a big .If is next to the hospital. I
+often play sports there. Can you find the ? it
+is across from the cinema. Some people like to fly kites in it. The park
+is between the and the
+I often go boating with my vale in File sisal
+
+: sports = |:
+
+square
+
+@ Self-assessment.
+
+18
+@ Good to know. 人
+
+Bicycle City
+Amsterdam is a bicycle city. There
+are more bicycles than cars. Many
+reads are only for bicycles.
+
+heen eee dy
+
+Subway City
+
+London has the biggest subway inthe |
+
+: world. It has 270 stations. It is called |
+the “London Underground". It is also
+
+very old, about 150 years old!
+
+Walking City
+Copenhagen is a great city for ;
+walking. There are no cars on
+
+many streets. Walking is safe and
+healthy there. People really like it!
+
+T live in a beautiful city.
+
+@ Let's sing. Gp
+
+@ Let's read. Gp
+
+One day Country Mouse
+goes to the city to see his
+cousin, City Mouse. City
+Mouse meets him at the
+bus station. Country Mouse
+wants to see a film first.
+
+=e
+
+* How can we e get there? )
+
+Oh, fered are so omany
+people. We can’t get
+
+(let's have some ~
+ice-cream
+
+“It’s not far. We can ) )
+go there on foot.
+
+The two mice walk to
+the cinema, but there
+are too many people
+there.
+
+¢ How can ve get ti
+\_ the supermarket? |
+
+Then they go toa
+supermarket for
+some ice-cream.
+~ Oh no! There are
+so many cars.
+
+Be careful!)
+
+Country Mouse tries
+to cross the street
+by himself, but the
+street is busy.
+
+“Oh, h, there t are so oO many people, so 2
+\ many cars and so many buses irs
+
+Country Mouse
+does not like the
+city. He wants to
+
+Country Mouse gets back
+home. He is happy again.
+
+@ Put the sentences in order.
+
+) They want to go to the supermarket.
+
+) Country Mouse wants to see a film first.
+
+) Country Mouse wants to go home.
+
+) They walk to the cinema. There are a lot of people there.
+) City Mouse meets Country Mouse at the bus station.
+
+一 一 一 一 一
+
+21
+Unit 3 Travel Plans
+
+ee wiht
+
+Where do you want to go? ty I want to go to
+: aac Westiake |
+my parents. y
+
+\
+
+1
+
+lip <= \ with
+
+“What do you
+
+me want to do there?
+i. 全
+4 » 3
+
+: “Iwanttoswim
+. in the sea and eat seafood. |
+
+@ Look, listen and repeat. Gp
+
+Bare
+
+West Lake the Great Wall
+take photos
+
+It’s a beautiful city.
+We can row a boat j
+on West Lake. 一
+
+Ol Leak, listen and Ligne oP)
+
+Mother: Where do you want to go
+this summer vacation?
+
+Son: I want to go to Sanya.
+
+| Mother: What do you want to do
+
+there?
+
+Son: I want to swim in the sea
+and eat seafood.
+
+° Do a survey and report. 个
+~ Where do you want to go ~
+
+this summer vacation, Bill?_ | a want tog go 0 10)
+BL | Dunhuang with |
+
+my parents. /
+
+一 What do you _
+
+“want to do there? N 2 a want to visit the
+
+_Mogao hae
+
+name place” = = things todo )
+
+Bill _ Dunhuang putt the Mogao ， Caves
+
+|
+Caves |
+|
+
+“Bill wants to go to Dunhuang with his parents. >
+‘They want to visit...
+
+@ Read and match. 人
+
+Today is my birthday. I want to travel. My mother wants
+to take me to Harbin by train. We can ski there. My father
+wants to take me to Sanya by plane. We can swim in the sea.
+My grandmother wants to take me to visit the Mogao Caves in
+Dunhuang. My grandfather wants to take me to Hangzhou. We
+can row a boat and .…
+
+Ding! Ding! Ding! I hear my mother, “Get up, Zhou Ming!" Oh, it
+is a dream! Today is my birthday, but it is Monday. I have to go
+to school!
+
+tat
+BS cil alae
+
+@ Read again and write.
+
+26
+
+Zhou Ming has a nice dream. In the dream, his mother
+wants to with him in Harbin. His father
+wants to with him in Sanya. His
+
+wants to with him in Dunhuang.
+
+His
+
+ot Ne nt
+@ Listen, point and repeat. ¢ )
+
+mM ot
+
+see eee
+
+sea
+@ Read aloud. Then listen and check. qh
+
+feet beep deed cheek eat beat leak neat
+
+@ Listen and write. 4
+
+1. The girl wants to the fish.
+
+2. A monkey likes to
+
+3. The shark sees two in the
+
+® Listen and repeat. 4
+
+I see the shark in the sea.
+
+He likes to eat, eat, eat.
+
+The shark in the sea sees me.
+
+He wants some meat, meat, meat.
+
+27
+Let's Check
+
+@ Listen and choose. 人
+
+Amy
+
+@ Read and write.
+
+Dear Bob,
+
+Hello from Hangzhou. Hangzhou is
+very beautiful. I am going to West Lake
+tomorrow morning. T want to row a boat
+and take many photos there. West Lake
+has lots of delicious food. I want to try
+it alll
+Lots of love,
+
+Mike
+
+| Mum, look! My friend Mike is in
+‘ He wants to
+
+@ Self-assessment.
+
+28
+® Good to know. 个)
+
+Volunteer Travel
+You can travel and help people, too. You can go
+| to a poor village to teach the children or you
+' can clean the countryside. Have fun and help
+: the world!
+
+Space Travel
+You can travel into space. You can only stay
+there for a few minutes, but it is a very
+special trip. Do you want to try?
+
+Round the World Travel
+
+"Put on your backpack and see the world.
+How many countries will you go to? You will
+， need one year or maybe two!
+
+- Let's go to the sea.
+
+@ Let's sing. Gp .
+
+ee
+® Let's S read， 全
+
+Where do you want 4G go)
+he this winter vacation? _,
+
+™ Twant to >
+_go to China. J
+‘OK! First stop, \
+__ Beijing! _
+
+& Min-jun and Ji-eun are from Korea.
+aie love ve travelling. —
+
+一 Where do you
+
+want to go next?
+mx = a
+
+| I want to see the flowers. )
+
+It is January. Min-jun apr
+&3 Ji-eun arrive in Beijing. SMB iy fae
+They visit the Great Wall. ,
+
+" what do you want
+/ to do in Thailand?_/
+
+What a nice day! *
+
+My sweater is very “I want to eat | \
+
+comfortable. 4) \_E | _Seaqfood _
+4) They see the flowers In spring, they go to
+in Kunming. Thailand by plane.
+
+30
+~ It’s so warm.
+My T-shirt is perfect! )
+
+Ae
+
+6) They eat seafood in Thailand.
+
+a re
+
+(0h no. I’m wearing my T-shirt.
+| It’s so cola! It’s winter in
+“Australia now.
+
+Finally, they go to
+Australia in June.
+
+Min-jun and Ji-eun
+catch colds. They
+want to go home!
+
+I feel so bad.
+This is terrible!
+
+@ Put the sentences in order.
+
+( )A 人 Ain-jun and Ji-eun go to Thailand. Ji-eun wears a T-shirt.
+
+( ) Min-jun and Ji-eun go to Australia. Ji-eun wears a T-shirt.
+
+( )A 人 Ain-jun and Ji-eun go to Kunming. Ji-eun wears a sweater.
+
+( ) Min-jun and Ji-eun visit the Great Wall in China. Ji-eun wears
+a coat.
+
+31
+Let's Review
+
+@ Listen and match. 4
+
+a
+
+@ Make a pian and talk.
+
+Make a travel plan for your summer vacation and then find
+out who can go with you.
+My Travel Plan for the Summer Vacation
+Place to go: Hangzhou
+Things to do: row a boat and take photos
+Transportation: _by train _
+
+Lele: Tom, where do you want to go this
+
+Lele: May, where do summer vacation?
+ai want fo gO = Tom: I want to go to Hangzhou.
+this oe Lele: Great. What do you want to do there?
+vacation: Tom: I want to row a boat on West Lake and
+May: I want to go to take photos
+Sanya. le: : + 7
+Lele: Oh, I can't go red By Ndi wey Te 30
+with you. Lele: Yeah! Let's go together!
+@ Read, draw the route and write.
+
+Ben is travelling in a new city. In the evening, he wants to see
+the film Toys. He asks a waiter in the hotel, “Where can I see
+Toys?" The waiter says, “You can take a bus from here and get off
+at the next stop.”
+
+Ben gets there, but he only sees a toy shop! He asks a policeman,
+“Excuse me. I want to see the film Toys. How can I get to the
+cinema?" The policeman says, “Turn left at the crossroads. It's on
+your right, between a sports centre and a bank."
+
+1. Find the cinema on the map.
+2. Draw Ben’s route from his hotel to the cinema on the map.
+3. Fill in the blank.
+
+@ us stop
+
+museum
+» — le
+
+es
+
+post office sports centre
+
+grocery bookshop = subway station
+
+Ben: Excuse me. How can I get to the cinema?
+
+Policeman:
+
+€ Look, listen and number. 4p
+
+34
+@ Let's make a word book.
+
+Ta
+Copy the words. =
+Draw pictures if you can. tol _ Et
+
+Put them together like this.
+Now you have a word book.
+
+35
+@ Let's read. Gp
+
+There will be a Halloween show next week. Joe, Alan and
+Yulin are preparing for it. They have different topics.
+
+RN aaa
+
+“Are you preparing for) Yorn hn,
+
+\the Aallgueen show? / (Yes. My topic is holidays
+a — \ and festivals, 一
+
+fisted
+
+Alan goes to Joe’s
+house to talk about
+their topics.
+
+Me you going to
+| do a show about |
+
+7 | | 2 @
+a dinosaurs? _/ "— | eee
+
+Yes. My topic is animals. ’'m\
+
+— very interested in dinosaurs.
+
+(Wnat’s Yulin going to ao? a ——
+
+His topic is outer
+Space. He’s going to
+\_ playa Martian, / /
+
+36
+一 一
+
+( What are: e you ES
+going to do, Spot?,
+
+Yulin has dressed
+himself and his
+dog Spot as well.
+
+(Pm going to aia | :
+
+\a cat from Mars. / (what a good mask, Spot!)
+
+Spot is not dressed up
+like a dog, but like a cat
+from Mars.
+
+~ Great shows, | kids! >
+ft _Have some Caney,
+
+The three friends have
+a lot of fun. They get
+plenty of Halloween
+treats to share, too.
+
+8 Answer the questions.
+
+1 What « are o oe, alan and vain preparing ore
+
+2. What is Joe's topic? What is he interested in?
+
+3. What is Alan's topic?
+
+4. What is Yulin s topic?
+
+5. What is Spot going to play?
+
+= ao yen schogl ngs: a WOW Shiai what topic mall youl cliagse®
+
+37
+Unit 4 Hobbies
+
+4 es? |
+what are your hobbies? = J Jigsaw W DUZZIES.. |
+
+| ee collecting erasers.
+
+38
+“I ilike skateboarding.
+. What are your hobbies? _/
+UT like singing
+
+{
+i
+|
+\
+
+\ and dancing. _
+
+@ Look, listen and repeat. Gp
+
+ortonste moron: en . é 3 NEI IE RINT ENTE
+
+@ Let" s play. 人
+
+skateboarding es models — collecting erasers |
+
+like reading» sf ; ee
+cs Bae: Je ‘Yac Yaoyao likes reading and dancing. )
+
+___I like skateboarding. —_-
+
+Yaoyao likes reading -
+
+| and dancing. |
+3 | Binbin likes skateboarding.
+| \ \i like collecting erasers. ,
+
+ee
+一 _ See
+
+@ Look, listen and repeat. 人
+
+: Good afternoon. I'm with
+School News. Can I ask you a.
+question?
+
+ill: Sure.
+
+irl: What are your hobbies?
+
+: I like doing jigsaw puzzles.
+: What about you?
+
+: I like collecting erasers. I
+have many beautiful erasers.
+
+like singing and dancing. \ 9.)
+What about you? _
+
+~ T like doing 一
+\ \ Jiasaw Buzzies, D /
+
+playing
+asketball
+
+drawing
+pictures
+
+( “Foy tll likes singing and dancing.
+I like doing jigsaw puzzles.
+
+dad
+
+@ Let's write.
+
+@ Read and write. gp
+
+This is my familys hobby book. I like
+
+collecting stamps.
+stamps. I also like
+
+* T have over 200
+eboarding. I think it is very cool. My
+
+mother likes drawing. She is really good at it. My father likes
+fishing. He often goes fishing but never catches any fish. My
+cat likes eating fish. She often goes with my father, but she
+
+never gets any fish!
+
+ET
+
+一 一 一
+Hobby Bob
+Book | 1 collecting ，
+
+|
+
+_ stamps
+| 2.
+
+四
+
+Mother
+
+ee
+
+@® Read again and write.
+
+Bob likes
+
+His mother likes
+
+His father likes
+
+His cat likes
+
+I like
+
+a
+
+My
+
+42
+@ Listen, point and repeat. 4p
+
+ring
+
+ping-pong
+@ Read aloud. Then listen and check. Gp
+
+king wing going strong wrong
+@ Listen and write. 人
+
+1. I like
+
+2. The bird has
+
+3. is easier than
+
+® Listen and repeat. 4
+
+My mother likes singing,
+Singing happy songs.
+
+My father likes reading,
+Reading books all day long.
+But TI like running
+
+And playing ping-pong!
+
+® Listen and match. GP
+
+Beibei
+Mark
+
+@ Read and write.
+
+My name is Sandy. Mark and Mary are my friends. We have
+different hobbies. I like skateboarding. I go to a skateboarding
+club every week. Mark likes making models. He often makes model
+planes with his father. Mary likes reading books. She often reads
+children's stories.
+
+name: name: name:
+
+hobby: hobby: hobby:
+
+@ Self-assessment.
+
+44
+® Good to know. Gp
+
+I like playing the guitar. I play music with
+my friends after school. We want to be
+famous music stars in the TI
+
+weeieorrmrecerreea maw hee Vn, ei et, eke cm aT
+
+T like acting. I always act in our school
+plays. It is difficult, but it is really fun.
+工 want to act on TV, too!
+
+My hobby is very special. I collect spiders!
+
+I have 30 spiders in my home. Some are
+dangerous, so I am very careful. Do you want |
+to play with them?
+
+: My hobby is riding my unicycle. It is not easy
+: to ride a unicycle. I have practised a long
+: time. Now, I can ride very fast. It is fun!
+
+# BY eek
+@ Let's sing. Gp
+
+AS
+@ Let's read. Gp
+
+Hi! I am Bill. I have many I also like painting.
+
+hobbies. I like playing Lucky likes painting, but
+football. Lucky likes it, he is not good at it. He is
+
+too. very messy!
+
+Lucky and I like singing, I like collecting stickers.
+
+too. I can sing songs in I have a big collection
+English and Chinese. Lucky now. They are very
+sings in Dog! interesting.
+
+46
+Where are my stickers? There is Lucky. But
+And where is Lucky? where is he going?
+
+There he is! Look! He has all oh, I see. 5 bce likes
+my stickers. collecting stickers, too!
+
+@ Put the sentences in order.
+
+( ) Lucky has many stickers.
+
+( ) Bill and Lucky both like playing football.
+( _) Bill likes collecting stickers.
+(_) Lucky likes painting, but he is not good at it.
+(__) Bill can't find his stickers or Lucky.
+(__) Bill and Lucky are looking at the stickers. ，
+( )Billand like
+Z ee
+4 I go camping \
+once a month. |,
+
+k.
+
+Ing
+
+ce a wee.
+
+I go skat
+wi
+
+t
+
+?
+
+How often do yo
+_ go Skating:
+@ Look, listen and repeat. Gp
+
+go for a picnic play the violin
+
+ag ENE hacedGek
+_— 4
+
+© Ask and answer. 4
+
+ow What do you do 一 Toften 1 go skating. ~
+
+ie your free ine | What do you do in your |
+
+is i free time, Andy?
+
+@ Look, listen and repeat. gp
+
+Mike: Lily, what are you going to do
+tomorrow?
+Lily: I'm going skating.
+Mike: How often do you go skating?
+Lily: I go skating twice a week.
+What do you do in your free
+time?
+Mike: T often read books.
+
+时 Do a survey. 4p
+
+“How often do you i
+NS play the violin? _ a rep, | 了 play the violin)
+2 ne Oe eR May. “4
+sw 4 4 时 ee
+| | play | | go fora bs ne
+the violin | | picnic
+了 oy | a | | |
+FE | | 十
+| | |
+
+every day | never
+
+He | | | | i onceaweek 有 | | PT | twice a week
+Py | Wy | three times a week
+
+@ Let's write.
+
+@ Read and fill in the blanks. 人
+
+bi Hello! I'm new in this
+
+} & school. My name is Jin Jing.
+I am good at dancing. I go toa
+dance club once a week. Do you
+want to dance with me?
+
+Who are going to be friends?
+and . They both like
+and . They both like
+@ Read again and write.
+How often does Jin Jing go to the dance club?
+She goes to the dance club
+How often does Alex go skating?
+
+He goes skating
+
+T like I
+int and repeat. @ p
+
+po
+
+® Listen
+
+gooa
+
+book
+
+个
+
+book foot hook
+
+@ Read aloud. Then listen and check
+
+cookie
+
+loop pool
+
+moon
+
+ZOO
+
+@L
+
+isten and write. @p
+
+QQ
+<x
+入
+=
+
+1. Look at the
+
+in the
+
+2. It is
+
+in the
+
+3. Don't play
+
+OL
+
+个
+
+isten and repeat
+
+On this cool afternoon,
+Why not go to the zoo?
+
+We can see the tiger eat its food,
+
+And look at the kangaroo.
+Let's Check
+
+@ Listen and match. gp
+
+® Read, write and draw.
+
+4.
+
+Cyt “toro
+
+I am Kevin. My friends and I enjoy our free time. I go
+
+to a science club once a week. It is interesting. Bob goes
+skating twice a week. It is cool. Alice learns to dance three
+times a week. She dances well. Every Saturday we all go for
+a picnic with our parents. It is really fun.
+
+goes to a science club
+
+goes skating a i
+learns todance_ CSCC FP ET TJ]
+goforapicnic. .DT
+
+@ Self-assessment.
+
+54
+@ Good to know. 4
+
+Would you like to have a pet? You can
+learn how to take care of it. You can
+
+_ feed it and play with it every day. You
+will have a lot of fun together.
+
+( Learning to cook is fun. You can learn
+from the TV or from your parents. You
+can help your mother or father to cook
+dinner.
+
+Ss
+
+Gardening is a healthy hobby. You can
+grow beautiful flowers and delicious
+vegetables. You can learn about the
+weather and seasons, too.
+
+Would you like to learn to knit? You can
+make a hat for your father or a scarf
+for your mother. It is fun.
+
+@ Let's sing. Gp
+
+-@ Let's read. Gp
+
+Why? We are walking,
+not running.
+
+Yes, I think I need 3
+more exercise.
+
+Yes, I like football.
+I also like ping-pong.
+
+& 2 SS so
+6: Do you play football? )
+
+(Do you like to dance? )
+
+”yes There is a
+dance class at
+school every week.
+
+But I don’t understand.
+You do a lot of exercise.
+
+Well, I like sports, but I
+don’t do them very often.
+
+play football and ae
+once a year. I never go to the
+人 class.
+
+@® Think and fill in the chart.
+
+(Can you help Lu Qi make an exercise plan? )
+
+activity football ping-pong dancing ls Oe eel
+how often
+
+—.
+
+‘Where are you from?
+
+a
+
+4 和
+
+/
+: 广
+A/ t :
+
+74
+;
+23 = SC
+here are you from? \ ~~
+
+WwW
+
+Pp
+
+@ Look, listen and repeat. gp
+
+e China
+Canada Australia theuxk | the USA —
+
+@ Let's role-play. 个
+
+(Hi, I'm Billy. ’'m from the UK. )
+
+一 一 一 一
+
+Hello! ’'m Emma. 人 \
+
+I’m from the UK, too.
+5 a.
+
+=,
+
+| Edward, —
+
+— Canad
+
+Oi Look, listen and repeat. @p
+
+Binbin: Hello! My name is Binbin. I'm
+from China. Where are you
+from?
+
+Tom: I'm from the UK. My name is
+Tom. I like drawing and making
+models. What are your hobbies?
+
+Binbin: TI like taking photos.
+
+Tom: You can visit Big Ben in my
+
+country and take photos there.
+
+el Let's role-play. 个
+
+“Where are you fi from? ) ~ Pm from the ~
+
+USA. You can visit |
+_ Disneyland in my |
+‘country, 一
+
+see maple leaves : visit Disneyland
+
+@ Let's write.
+
+Australia,
+koalas
+
+@ Read and match. 4p
+
+Dear Mum,
+
+I'm writing to you by the light of the campfire. oft have
+some new friends here. They are Cindy, Edward and Tom.
+
+Cindy is a pretty girl. She is from Australia. She likes
+swimming. There are cute koalas in her country.
+
+Edward is from Canada. He likes collecting maple leaves. They
+are beautiful.
+
+Tom is from the UK. He likes making models. He has a big
+model of Big Ben. It's great!
+
+I really want to go to all these countries!
+
+@ Read again and write.
+
+Cindy is from . You can in her country.
+Edward is from . You can in his country.
+Tom is from . You can in his country.
+@ Listen, point and repeat. 4
+
+a
+
+hobby cand
+@ Read aloud. Then listen and check. 4 -
+
+my fly spy sly candy pity happy funny
+
+@ Listen and write. Gp
+
+1. I have a
+
+2. I cansee kite in the
+
+3. The rat's is
+
+|
+
+® Listen and repeat. gp
+
+Mary likes to fly ina plane.
+She likes to fly so high.
+She likes to eat candy on the plane.
+She is happy in the sky.
+
+63
+@ Listen and match. Gp
+
+(是
+Alex da 次 、*
+
+I have some new friends. Peter is tall. He likes skateboarding.
+He is from the UK. You can visit Big Ben in his country. Grace
+likes reading. She is from Australia. She has many books about
+koalas. Frank likes swimming. He is from the USA. Disneyland is
+a good place to visit there. Sally likes playing the violin. She is
+from Canada. You can see beautiful maple leaves there.
+
+name: Peter name: name: name:_Sally
+hobby: hobby:reading hobby: Swimming hobby:
+country: country: country: country:
+interesting interesting interesting interesting
+thing: thing: thing: thing:
+
+@ Self-assessment.
+
+64
+
+@ Good to know. Gp
+
+£ a If you go to Canada, you can see beavers
+i N and maple leaves. Beavers are lovely and
+maple leaves are beautiful. People there
+love playing winter sports.
+
+If you go to the UK, you can visit Big Ben.
+It is the name of a very big clock. It is
+over 150 years old. On New Year's Eve
+people get together around Big Ben.
+
+If you go to the USA, you can visit Disneyland.
+You can go on rides and you can see Snow
+White. If you are hungry, you can have lunch
+with Mickey Mouse!
+
+If you go to Australia, you can see koalas.
+Koalas sleep and rest almost 20 hours a
+day. They sleep during the day, but at night
+they get up and eat leaves.
+
+@ Let's make.
+
+LEN. Fo:
+
+Visas ae bf
+
+@ Let's sing. Gp
+
+as
+@® Let's read. Gp
+
+Anybody home?
+ie A One day Angel comes
+to a big house.
+
+In a big room, Angel
+sees a smiling panda.
+
+a ‘On, a big panda! >
+——_ It’s from China. _
+
+~ Big Ben!
+\ Its grou the UK
+
+Then Angel sees a
+model of Big Ben.
+
+Ah, this is from | Auskratia.
+= A lovely koala.
+
+ta
+
+Angel sees a toy koala
+in a bedroom.
+~ Sn ae ee ae .
+“Nice to meet you, Mickey Mouse.
+ou are from Disneyland in the USA, right?
+
+一
+
+Angel comes to a big room
+and sees Mickey Mouse.
+
+Angel sees a maple leave on
+a door. She doesn’t know
+what is in the room.
+
+“A maple leaf.
+Is there something |
+from Canada here?, J
+
+ae
+
+_| Ahh! Who are you?! —
+
+Hi, Pm Max. ’m a
+beaver from Canada.
+
+@ Put the sentences in order.
+
+) Angel sees a big panda from China.
+
+) Angel sees Mickey Mouse from the USA.
+
+) Angel sees a brown beaver from Canada.
+
+) Angel sees a toy koala from Australia.
+
+) Angel sees a maple leaf from Canada.
+
+) Angel sees a model of Big Ben from the UK.
+
+atts at open NY cain CT ME ag eI oI
+Let's Review
+
+@ Listen and match. @ p
+
+Lin Tao Lanlan Jiajia Lucas Kevin Trene
+a a =m
+
+~ Pm Bill. Pm from China. You can
+_Visit te Great Wall in ny country. J
+
+@ Play and talk.
+
+\
+) | Name: Cindy 6)
+
+x : aa Name: Tom poet eae |
+| Name: Bill 0) | Se | Country: |
+| Interesting |
+
+| | | Country: =
+
+| | =
+| 让 ee | Interesting
+_ Interesting | thing:
+| thing: Lad
+
+a
+
+aw OG ， .， |
+
+‘Name: Edward 0) Name: Nick 0) Name: Jiajia 6)
+ns ar | | | Country: = | Country: pee |
+| |
+
+uae
+
+Interesting | | Interesting ‘thi
+fs al |
+
+@ Read and write.
+Dear campers,
+Thank you for joining our summer camp. We're planning some
+activities for you. Please answer the following questions by email.
+1. What are your hobbies?
+
+2. How often do you do them?
+Please write down your names and where you are from.
+
+Thank you!
+Ms James
+Read some campers’ answers and help Ms James fill out the form.
+
+T am Dick from the USA. I read books every day. I also like
+visiting museums. I go to the museums in my city once a week.
+Can I visit a museum there?
+
+I am Phil from the UK. T like playing chess. I play it twice a week.
+I want to play chess with other campers.
+
+Iam Jojo from Australia. I like travelling. I go travelling with
+my parents twice a year. I hope I can travel around your city.
+
+hobbies how often
+
+reading books
+visiting museums
+
+twice a week
+
+travelling
+
+Please write your reply.
+
+Iam from
+
+I like
+I
+
+69
+@ Look, listen and number. 4
+
+@ Listen and write. 4
+
+«
+
+stro__
+
+@ Let's make a word book.
+
+| lestenang aye ie
+| _ _—
+| runnang =
+
+Copy the words.
+Draw pious 1 yOu can.
+
+Put them together like this.
+‘Now you have a word book.
+
+@ Let's read. Gp
+
+Hi! Welcome to our club’s
+
+website. I’m Mary, and this
+
+1 q Warren = \ — is John. We like to go to the
+
+a Se _ Saturday Morning Club at the
+i |) museum because it is fun.
+
+[2 eOol@ x Gite
+we
+
+SS
+
+Please follow us! |
+
+— ;
+
+into»
+
+i
+
+* Here we are coming
+
+is 15 feet
+
+/ This is my favourite >
+room because the
+4, mummies are scary.
+
+(So eOl@ x G3
+Tl wwwr Ase. com
+
+7M many
+| bats. It’s like a cave.
+\_It’s spooky! _
+
+72
+“Watch out! The two
+
+dinosaurs are fighting.
+
+eS. ~~ knight’s armour. It’s heavy! )
+\z The dinosaur hall is my 7 is <
+
+\, favourite room. ER Y Loi
+bo ws BR
+
+‘Do you like the museu
+}. Please email us.
+
+~
+
+"Ee
+
+(2 a@ol@ x HST
+5 Wy ABC. Gol)
+a” ALTE
+
+\
+——— But do your >)
+G @ > homework first.)
+
+@ Put the sentences in order.
+
+( ) Mary is in her favourite room. She thinks the mummies are scary. :
+( ) Mary and John see a 15-foot-tall totem pole.
+( ) Mary is trying ona knight's armour.
+
+( ) They come to John's favourite room 一 the dinosaur hall.
+
+( ) Mary and John walk through the spooky bat cave.
+
+73
+Pi se —
+
+Fun time, C
+
+Excuse me. Can you please
+help me?
+
+How can I get to the bank?
+
+Go straight. Turn right.
+
+It’s on your left.
+
+That’s how you get to the
+bank!
+
+Excuse me. Can you please
+help me?
+
+How can I get to the grocery?
+
+Go straight. Turn left.
+
+It’s on your right.
+
+That’s how you get to the
+grocery!
+
+Excuse me. Can you please
+help me?
+
+How can I get to the post
+office?
+
+I'm sorry. I’m sorry.
+
+I cannot help you.
+
+74
+
+歌曲
+
+office.
+
+Fun time, C
+
+I want to see a film.
+
+Do you want to see one,
+too?
+
+The cinema is on King
+Street.
+
+I want to go with you.
+
+I want to buy some toys.
+
+Do you want to buy some,
+too?
+
+The toy shop is on King
+Street.
+
+I want to go with you.
+
+I want to row a boat.
+
+Do you want to do that,
+too?
+
+The park is on King
+Street.
+I want to go with you.
+
+Fun time, C
+I want to visit the Great
+Wall,
+I want some Beijing duck,
+I want to take some
+photos,
+So let’s go to Beijing.
+
+I want to eat some
+seafood,
+
+I want to swim in the sea,
+
+I want to see the sunrise,
+
+So let’s go to Sanya.
+
+Fun time, C
+I like listening to music
+and,
+I like playing computer
+games.
+These are my favourite
+hobbies.
+
+Are they your hobbies, too?
+
+I like reading stories and,
+
+I like collecting stamps.
+
+These are my favourite
+hobbies.
+
+Are they your hobbies, too?
+
+Unit 5 a aalGg Sousa's Vek e cs suse dak y xa ve Viaeedaueeee :
+Fun time, C
+
+I go to bed once a day.
+
+I brush my teeth twice a
+day.
+
+I eat food three times a
+day.
+
+I do my homework every
+day.
+
+I go skating once a week.
+
+I play the violin twice a
+week.
+
+I go to school five times a
+week.
+
+I do the housework every
+week.
+
+Fun time, C
+
+Hello, my friend! Where are
+you from?
+
+Oh, I am from the city of
+Beijing.
+
+75
+What is Beijing famous for?
+It’s famous for the Great
+wall.
+
+Hello, my friend! Where are
+you from?
+
+Oh, Iam from the city of
+London.
+
+What is London famous for?
+
+It’s famous for Big Ben.
+
+Hello, my friend! Where are
+you from?
+
+Oh, Iam from the city of
+Sydney.
+
+What ts Sydney famous for?
+
+It’s famous for the Opera
+House.
+
+第 4 页 B 项 活动 用 图 :
+
+bookshop
+post office
+
+supermarket Pank Sanday >
+A
+
+ss UE) hates
+LU
+
+76
+Bt
+
+应 词语 ， 并 会 默写 其 中 部 分 词语 。
+2 我 能 选择 一 个 地 皮 | |, HACK DRT, HUA
+我 家 的 路 径 。
+
+Unit 2
+1. 我 能 用 英语 说 出 以 下 场所 的 名 称 ， 能 认 读 相应 词语 ， 并 会 默写 其 中
+
+部 分 词语 。
+
+AS
+
+2. 我 能 用 更 多 的 语句 描述 上 述 场所 。
+
+This is a...
+Unit 3
+1. 我 能 用 英语 说 出 以 下 景点 名 称 ， 能 认 读 相应 词语 ， 并 会 默写 其 中 部
+
+分 词语 。
+
+2 def EAI wantto... 表达 自己 想 在 景点 做 的 事情
+
+2. 我 能 用 What are your hobbies? I like ... 与 同伴 交流 各 自 的 爱好
+
+78
+
+Unit 5
+1 我 能 用 英语 说 出 以 下 活动 的 名 称 ， 能 认 读 相 应 词语 ， 并 会 默写 其 中
+
+2. 我 能 用 T .eyey day / once a week / twice a week / three times
+a week. 描述 自己 做 某 件 事 的 频率 。
+
+本 司 需 王国 闻 略 eee PLL Lit Ly eae
+
+Unit 6
+1. 我 能 用 英语 说 出 以 下 国家 名 称 ， 能 认 读 相应 词语 ， 并 会 默写 其 中 部
+
+2. 我 能 用 T am from ... You can... in my country. 表演 来 自 不 同 国家
+的 人 物 ， 并 介绍 在 这 些 国家 可 以 做 的 事情 。
+
+72,
+80
+
+KRRE BMOIWILA
+
+(i: 红色 词 为 每 单元 的 重点 词汇 ; 绿色 词 为 每 单元 复 现 的 1-4 册
+中 出 现 过 的 、 与 本 单元 话题 相关 的 词汇 )
+
+across from
+next to
+between 在
+restaurant
+post office
+bank
+
+grocery Rie Fe
+
+turn left
+turn right
+go straight
+
+向
+向
+
+对 面 (4)
+紧邻 (4 )
+之 间 (4)
+餐馆 (4)
+up Ay (4 )
+银行 (4 )
+SE (4)
+#4 (5)
+BH (5)
+Hy (5)
+
+crossroads + #%v (5)
+neighbourhood
+街坊 ; 附近 (5)
+
+send
+
+toy
+
+hospital
+bookshop
+school
+supermarket
+ball
+
+ze
+5
+
+RR (6)
+得 到 (6)
+钱 (6 )
+到 达 (6)
+之 前 (6)
+离开 (6)
+玩具 (6)
+医院
+书店
+学 校
+超市
+
+球
+
+UNE 2 ie Bees
+city 城市 (14 )
+Street 街道 (14 )
+sports centre
+
+体育 中 心 (14 )
+hotel RAE (14)
+square 广场 (14 )
+buy toys KRHA (15)
+
+see a film 看 电影 (15 )
+go boating 去 划船 (15 )
+
+busy 忙碌 的 (15 )
+station (43515)
+place 地 方 (16 )
+thing 事 ; 事物 (16 )
+Stay 停留 (16 )
+star # (16)
+king 国王 (16)
+central 中 心 的 (16 )
+take photos 照相 (16 )
+museum 博物 馆 (16 )
+dream (16)
+主要 ee
+sea 大 海 (24 )
+ski 滑雪 (24)
+
+eat seafood “ties (24)
+visit the Mogao Caves
+参观 莫 高 窜 (24 )
+
+West Lake 西湖 (24 )
+row a boat RAG (24 )
+the Great Wall K3% (24)
+take photos 照相 (24)
+summer vacation
+HAR (25 )
+travel 旅游 (26 )
+Unit 4 人
+reading 读书 (40 )
+skateboarding
+玩 滑板 (40)
+singing "aK (40)
+dancing 跳 狂 (40)
+doing jigsaw puzzles
+拼 拼 图 (40)
+making models
+
+制作 模型 (40 )
+collecting erasers
+
+收集 橡皮 (40)
+different 不 同 的 〈40 )
+hobby BIS (41)
+stamp wip (42)
+catch ME (42)
+
+Unit 5 See idctcucetixvesdsaadk etineces aaa GS
+go for a picnic
+去 野餐 (50)
+
+play the violin
+4) FER (50 )
+go skating ”去 滑冰 (50)
+gocamping 去 野营 (50)
+do the housework
+WRF (50 )
+
+free = HY (50 )
+never WA (51 )
+once a week
+
+一 周一 次 (51 )
+
+twice a week
+一 周 两 次 (51)
+three times a week
+
+一 周三 次 (51 )
+Unit 6 RE
+Canada 加 拿 大 (60)
+Australia 澳大利亚 (60)
+the UK 英国 (60 )
+the USA 美国 (60 )
+China PE} (60)
+koala 考 拉 (61 )
+maple leaves ”枫叶 (61)
+Big Ben 大 本 钟 (61 )
+Disneyland
+迪斯尼 乐园 (61 )
+campfire 2x (62)
+cute 可 爱 的 (62 )
+country R (62)
+pretty a one
+Py se
+
+( 注 : 红色 词 为 本 册 的 重点 词汇 ; 4
+
+总 词 aL
+
+REI ARM ZILA 1—4 a Ph
+
+现 过 的 、 与 本 册 话 题 相关 的 词汇 )
+
+A cadpirnk Ge suusgitessabeyedon cashiers sek it wou AER ELAGSL SEE
+across from xpi (4)
+Australia 澳大利亚 (60)
+ball 球
+bank 银行 (4)
+before 在 …… 之 前 (6)
+between 在 …… 之 间 (4)
+Big Ben 大 本 钟 (61 )
+bookshop 书店
+busy 忙 厌 的 (15 )
+buy toys 买 玩具 (15)
+
+campfire HK (62)
+Canada 加 拿 大 (60)
+catch IME (42 )
+central 中 心 的 (16 )
+China PB (60)
+city 城市 (14 )
+collecting erasers —
+
+KR HK (40)
+country R (62)
+
+crossroads “十字 路 口 (5)
+
+cute 可 爱 的 (62 )
+D pcigtiaie ag Be
+dancing DES (40 )
+different Aa (40)
+Disneyland
+迪斯尼 乐园 (61 )
+do the housework
+做 家 务 (50)
+doing jigsaw puzzles
+拼 拼 图 (40 )
+dream # (16)
+eat segunda 吃 海 鲜 (24 )
+free 空闲 的 (50)
+G ete Haas A
+get 得 到 (6 )
+get to 到 达 (6)
+‘go boating 划船 (15 )
+
+gocamping 去 野营 (50 )
+
+go for a picnic
+
+Z 去 野餐 (50)
+go skating 去 滑冰 (50 )
+go straight 直行 45)
+
+grocery 食品 杂货 店 (4)
+
+H PG sas wees SRR RESON us a TONS a
+hobby 爱好 (40 )
+hospital 医院
+hotel 宾馆 (14 )
+
+K Serer Ty Re PCT ER er epee ere eee
+king = (16)
+koala 考 拉 (61 )
+
+L PiGLRTAL TA VEy ira ev SANSA Oea eel won te ss eadelane
+leave 离开 (6)
+
+ov ee ee
+making models
+
+制作 模型 〈40 )
+
+maple leaves = *#"t (61)
+
+money (6)
+
+museum 博物 馆 (16)
+
+ee ee ee
+. neighbourhood
+
+街坊 ; 附近 (5 )
+
+never 从 不 (51 )
+
+ee 人
+once a week
+一 周一 次 (51 )
+Pp <
+place we (16)
+play the violin
+拉 小 提琴 〈50 )
+post office 邮局 〈4 )
+pretty oe
+R Pe OO a
+reading 读书 《40 )
+restaurant 餐馆 〈4 )
+rowaboat 去 划船 (24 )
+S Beata tani te centres oC earn ae leimbaneaar Ue
+school 学 校
+sea Kis (24)
+—See a film 看 电影 (15 )
+send 寄 ; Rik (6)
+singing 唱歌 (40 )
+skateboarding
+Hig th (40)
+Ski aE (24)
+sports centre
+
+体育 中 心 (14 )
+广场 (14 )
+
+square
+stamp 邮票 (42 )
+station (4) 3b (15)
+star # (16)
+stay 428 (16)
+street 街道 《14 )
+summer vacation
+AMR (25 )
+supermarket 超市
+take photos — 4a (24)
+the Great Wall 3% (24)
+the UK 英国 (60)
+the USA xB (60)
+
+thing 事 ; 事物 (16 )
+
+three times a week
+
+一 周三 次 (51 )
+toy 6
+travel 旅游 (26 )
+turn left 1 4% (5 )
+turn right 向 右 转 (5)
+twice a week
+
+一 周 两 次 (51)
+visit the Mogao Caves
+
+BMRA (24)
+
+West Lake 西湖 (24 )
+后 1
+
+ZS UBB GALAN BR BOT HH WL ER EEO EET REE BOT FEIT ASU
+依据 教育 部 《义务 教育 英语 课程 标准 》 ( 2011 年 版 ) 与 加 拿 大 灵通 教育 有 限 公
+司 合作 编写 的 ， 经 国家 基础 教育 课程 教材 专家 工作 委员 会 2013 年 审查 通过 。 北
+京 市 海 演 区 教师 进修 学 校对 本 册 教 科 书 的 修订 提供 了 全 方位 的 支持 。
+
+本 册 教 科 书 集中 反映 了 基础 教育 教科 书 研 究 与 实验 的 成 果 ， 凝 聚 了 参与 课
+改 实验 的 教育 专家 、 学 科 专 家 、 教 研 人 员 以 及 一 线 教师 的 集体 智慧 。 我 们 感谢
+所 有 对 本 册 教 科 书 的 编写 、 出 版 提供 过 帮助 与 支持 的 同仁 和 社会 各 界 朋 友 ， 以
+及 整体 设计 艺术 指导 吕 敬 人 等 。 我 们 还 要 特别 感谢 原 教科 书 主要 编写 人 员 鸡 亚
+夫 、 马 淑 英 、 王 晓 东 、 柳 小 玲 、 吴 雅静 、 李 静 、 谢 旋 莹 、 梁 丽 震 、David Booth,
+Sandra Purchase， 以 及 Suzanne Robare。 马 淑 英 、 张 海 翔 、 刘 莹 (北京 石油 学 院 附
+BME) 和 王 微 在 本 册 教 科 书 修订 过 程 中 也 参与 了 讨论 ， 在 此 一 并 表示 感谢 。
+
+本 册 教 科 书 出 版 之 前 ， 我 们 通过 多 种 渠道 与 教科 书 选 用 作品 (包括 照片 、
+画作 ) 的 作者 进行 了 联系 ， 得 到 了 他 们 的 大 力 支持 。 对 此 ， 我 们 表示 衷心 的 感
+谢 ! 但 仍 有 部 分 作者 未 能 取得 联系 ， 姑 请 入 选 作 品 的 作者 与 我 们 联系 ， 以 便 文
+付 稿 酬 。
+
+我 们 真诚 地 希望 广大 教师 、 学 生 及 家 长 在 使 用 本 册 教 科 书 的 过 程 中 提出 宝
+贵 意见 ， 并 将 这 些 意 见 和 建议 及 时 反馈 给 我 们 。 让 我 们 携 起 手 来 ， 共 同 完成 义
+务 教 育 教材 建设 工作 !
+
+联系 方式
+电 话 : 010-58758866
+电子 邮箱 :jcfk@pep.com.cn
+
+人 民 教 育 出 版 社 课 穆 教 材 研究 所
+英语 课程 教材 研究 开发 中 心
+2013 年 5 月
+四 年 级 下 册
+
+23 ED ial 产品
+义务 教育 教科 书 ”英语 (一 年 级 起 点 ) 四 年 级 Tit
+审批 号 : 京 发 改 [2007]1043 号 -=188 ”价格 举报 电话 :12358
+
+>
+
+NI
+

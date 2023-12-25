@@ -1,0 +1,20 @@
+12/25/2023 05:16:58 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/25/2023 05:16:58 - INFO - __main__ -   ***** extracting pdf *****
+12/25/2023 05:16:58 - INFO - __main__ -   Convert pdf to images
+12/25/2023 05:17:23 - INFO - __main__ -   Convert images to txt
+12/25/2023 05:29:17 - INFO - __main__ -   ***** getting vocabulary *****
+12/25/2023 05:29:17 - INFO - __main__ -   ***** processing text Unit 1 What's the matter? *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit2 [help to clean up the city parks.
+1. T *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit 3 Could you please clean your room? *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit4 Why dontyoutalkto your parents?
+1. A *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit 5 What were you doing when the rainstorm came? *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit6 An old man tried to move the mountains.
+ *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit 7 What’s the highest mountain in the world? *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit 8 Have you read Treasure Island yet? *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit9 Have you ever been to a museum?
+ *****
+12/25/2023 05:29:19 - INFO - __main__ -   ***** processing text Unit 10 I’ve had this bike for three years. *****
+12/25/2023 05:29:20 - INFO - __main__ -   saved json formatted vocabulary

@@ -1,9 +1,2 @@
-12/24/2023 18:39:45 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
-12/24/2023 18:39:45 - INFO - __main__ -   ***** extracting pdf *****
-12/24/2023 18:39:45 - INFO - __main__ -   Convert pdf to images
-12/24/2023 18:39:57 - INFO - __main__ -   Convert images to txt
-12/24/2023 18:41:57 - INFO - __main__ -   ***** getting vocabulary *****
-12/24/2023 18:41:57 - INFO - __main__ -   ***** processing text Unit 1 School *****
-12/24/2023 18:41:59 - INFO - __main__ -   ***** processing text Unit 2 Face *****
-12/24/2023 18:41:59 - INFO - __main__ -   ***** processing text Unit 3 Animals *****
-12/24/2023 18:41:59 - INFO - __main__ -   saved json formatted vocabulary
+12/25/2023 17:52:28 - INFO - __main__ -   ***** getting vocabulary *****
+12/25/2023 17:52:30 - INFO - __main__ -   saved json formatted vocabulary

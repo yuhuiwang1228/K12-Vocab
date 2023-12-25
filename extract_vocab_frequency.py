@@ -76,7 +76,7 @@ def extract_pdf(args, cache_file):
     logger.info("Convert images to txt")
     text = ''
     for image in images:
-        text += pytesseract.image_to_string(image, lang='eng+chi_sim')
+        text += pytesseract.image_to_string(image, lang='eng+chi_sim') #lang='eng+chi_sim'
 
     with open(cache_file, 'w', encoding='utf-8') as file:
         file.write(text)
@@ -176,7 +176,19 @@ def get_vocab_standard(args, cache_file, output_file, grade, term, unit_list):
     with open(output_file, "w") as file:
         json.dump(json_set, file)
     logger.info("saved json formatted vocabulary")
-    
+
+def get_vocab(args, cache_file, output_file, grade, term):
+    logger.info("***** getting vocabulary *****")
+    with open(cache_file, 'r', encoding='utf-8') as file:
+        text = file.read()
+
+    term_vocab = process_text(text)
+
+    json_set = {f"grade_{grade}_term{term}":{"unit_base": [], 'term_base':term_vocab}}
+    with open(output_file, "w") as outfile:
+        json.dump(json_set, outfile)
+    logger.info("saved json formatted vocabulary")
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -185,6 +197,7 @@ def main():
         "--data_file",
         default=None,
         type=str,
+        required=True,
         help="The data file for vocabulary extraction",
     )
 
@@ -204,15 +217,9 @@ def main():
         help="The output directory where the json files will be written",
     )
 
-    parser.add_argument(
-        "--unit_file",
-        default=None,
-        type=str,
-        required=True,
-        help="The structure of the data",
-    )
-
+    parser.add_argument("--unit_file", default=None, type=str, help="The structure of the data")
     parser.add_argument("--do_cache", action="store_true", help="Whether to use the cached data")
+    parser.add_argument("--do_unit", action="store_true", help="Whether to extract unit based vocabulary")
     parser.add_argument("--ignore_content", action="store_true", help="Whether to ignore the content when splitting the text")
     args = parser.parse_args()
 
@@ -233,16 +240,21 @@ def main():
         level=logging.INFO  # Set to log INFO and higher level messages
     )
 
-    unit_list_dict = extract_unit_list(args.unit_file)
-    standard_unit_list = unit_list_dict[grade+term]
     
     if args.do_cache:
         extract_pdf(args, cache_file)
 
-    print(standard_unit_list)
-    unit_list = get_unit_list(args, cache_file, standard_unit_list)
-    print(unit_list)
-    get_vocab_standard(args, cache_file, output_file, grade, term, unit_list)
+    if args.do_unit:
+        unit_list_dict = extract_unit_list(args.unit_file)
+        standard_unit_list = unit_list_dict[grade+term]
+        print(standard_unit_list)
+
+        unit_list = get_unit_list(args, cache_file, standard_unit_list)
+        print(unit_list)
+
+        get_vocab_standard(args, cache_file, output_file, grade, term, unit_list)
+    else:
+        get_vocab(args, cache_file, output_file, grade, term)
 
 
 if __name__ == "__main__":

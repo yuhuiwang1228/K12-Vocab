@@ -1,0 +1,18 @@
+12/25/2023 04:51:44 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/25/2023 04:51:45 - INFO - __main__ -   ***** extracting pdf *****
+12/25/2023 04:51:45 - INFO - __main__ -   Convert pdf to images
+12/25/2023 04:52:33 - INFO - __main__ -   Convert images to txt
+12/25/2023 05:04:46 - INFO - __main__ -   ***** getting vocabulary *****
+12/25/2023 05:04:46 - INFO - __main__ -   ***** processing text Unit 1 Can you play the guitar? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 2 What time do you go to school? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 3 How do you get to school? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 4 Don’t eat in class. *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit § Why do you like pandas? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 6 I’m watching TV. *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 7 It’s raining! *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 8 Is there a post office near here? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 9 What does he look like? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 10 I'd like some noodles. *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 11 How was your school trip? *****
+12/25/2023 05:04:49 - INFO - __main__ -   ***** processing text Unit 12 What did you do last weeke *****
+12/25/2023 05:04:49 - INFO - __main__ -   saved json formatted vocabulary
