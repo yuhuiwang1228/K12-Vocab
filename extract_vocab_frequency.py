@@ -5,16 +5,16 @@ import json
 import re
 import os
 import subprocess
-from collections import defaultdict
+from collections import defaultdict,Counter
 import pandas as pd
 import numpy as np
-from itertools import Counter
+import PyPDF2
 
 from docx import Document
 
 import nltk
 nltk.data.path.append('/home/ivanfung/nltk_data')
-nltk.download('punkt') #download_dir="/home/ivanfung/nltk_data/nltk_data"
+nltk.download('punkt') # download_dir="/home/ivanfung/data"
 nltk.download('words')
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -39,7 +39,7 @@ def extract_title(data_file):
     logger.info("***** extracting title *****")
     primary_pat = re.compile(r"(\d)([A-C])")
     junior_pat = re.compile(r'([一二三四五六七八九])+年级英语([上下全])册?')
-    senior_pat = re.compile(r'([(必修)|(选修)])(\d)?')
+    senior_pat = re.compile(r'(必修|选修)(\d)?')
 
     grade_dict = {'一':'1','二':'2','三':'3','四':'4','五':'5','六':'6','七':'7','八':'8','九':'9', '必修':'R','选修':'E'}
     term_dict = {'上':'A','下':'B','全':'C', '1':'A','2':'B','3':'C','4':'D'}
@@ -57,6 +57,17 @@ def extract_title(data_file):
 
     return grade,term
 
+# def extract_pdf(args, cache_file):
+#     logger.info("***** extracting pdf *****")
+#     with open(args.data_file, 'rb') as file:
+#         pdf_reader = PyPDF2.PdfReader(file)
+
+#     with open(cache_file, 'w') as text_file:
+#         for page_num in range(len(pdf_reader.pages)):
+#             page = pdf_reader.pages(page_num)
+#             text = page.extractText()
+#             text_file.write(text)
+
 def extract_pdf(args, cache_file):
     logger.info("***** extracting pdf *****")
     logger.info("Convert pdf to images")
@@ -65,7 +76,7 @@ def extract_pdf(args, cache_file):
     logger.info("Convert images to txt")
     text = ''
     for image in images:
-        text += pytesseract.image_to_string(image, lang='eng')
+        text += pytesseract.image_to_string(image, lang='eng+chi_sim')
 
     with open(cache_file, 'w', encoding='utf-8') as file:
         file.write(text)
@@ -97,14 +108,16 @@ def get_unit_list(args, cache_file, unit_list):
     p = 0
 
     # skip_content = False if args.data_type == '教师用书' else True
-    skip_content = False
+    ignore_content = args.ignore_content
     for i,unit in enumerate(unit_list):
         seq_len = len(unit)
+        unit = unit.lower()
         for j in range(p, len(text)-seq_len):
             candidate = text[j:j+seq_len]
-            if (candidate.startswith('Unit') or candidate.startswith('第')) and fuzz.ratio(candidate,unit) > 80:
-                if not skip_content:
-                    skip_content = True
+            candidate = candidate.replace('\n',' ').lower()
+            if candidate.startswith('unit') and fuzz.ratio(candidate,unit) > 80:
+                if not ignore_content and i==0:
+                    ignore_content = True
                     continue
                 true_unit_list.append(text[j:j+seq_len])
                 p = j
@@ -130,18 +143,25 @@ def get_vocab_standard(args, cache_file, output_file, grade, term, unit_list):
 
     unit_vocab_list = []
     remaining_text = text
+    ignore_content = args.ignore_content
     for i,unit in enumerate(unit_list):
-        parts = re.split(re.escape(unit), remaining_text, maxsplit=1)
+        if not ignore_content and i==0:
+            ignore_content = True
+            parts = re.split(re.escape(unit), remaining_text, maxsplit=2)
+            assert len(parts)==3
+        else:
+            parts = re.split(re.escape(unit), remaining_text, maxsplit=1)
+            assert len(parts)==2
+        
         logger.info(f"***** processing text {unit} *****")
-        assert len(parts)==2
+        
         if len(parts) > 1:
-            unit_vocab_list.append(process_text(parts[0]))
-            remaining_text = parts[1]
+            unit_vocab_list.append(process_text(parts[-2]))
+            remaining_text = parts[-1]
             if i==len(unit_list)-1:
                 unit_vocab_list.append(process_text(remaining_text))
 
     term_vocab = process_text(text)
-    term_vocab.sort()
 
     unit_vocab_dict = {}
     print(len(unit_list), len(unit_vocab_list))
@@ -149,9 +169,9 @@ def get_vocab_standard(args, cache_file, output_file, grade, term, unit_list):
     for i,vocab in enumerate(unit_vocab_list):
         if i==0:
             continue
-        unit_vocab_dict[f"grade_{grade}_{term}_U{i}"] = {"unit_name": unit_list[i-1],"word":vocab}
+        unit_vocab_dict[f"grade{grade}_term{term}_U{i}"] = {"unit_name": unit_list[i-1],"word":vocab}
 
-    json_set = {f"grade_{grade}_{term}":{"unit_base": unit_vocab_dict, 'term_base':term_vocab}}
+    json_set = {f"grade{grade}_term{term}":{"unit_base": unit_vocab_dict, 'term_base':term_vocab}}
     
     with open(output_file, "w") as file:
         json.dump(json_set, file)
@@ -185,15 +205,6 @@ def main():
     )
 
     parser.add_argument(
-        "--chapter",
-        choices=['人教版七上', '人教版七下', '人教版八上', '人教版八下', '人教版九全'],
-        default=None,
-        type=str,
-        required=True,
-        help="The chapter of the data",
-    )
-
-    parser.add_argument(
         "--unit_file",
         default=None,
         type=str,
@@ -202,19 +213,25 @@ def main():
     )
 
     parser.add_argument("--do_cache", action="store_true", help="Whether to use the cached data")
+    parser.add_argument("--ignore_content", action="store_true", help="Whether to ignore the content when splitting the text")
     args = parser.parse_args()
 
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
+    if not os.path.exists(args.cache_dir):
+        os.makedirs(args.cache_dir)
+
+    grade, term = extract_title(args.data_file)
+    cache_file = os.path.join(args.cache_dir, f"textbook_grade{grade}_term{term}.txt")
+    output_file = os.path.join(args.output_dir, f"textbook_grade{grade}_term{term}.json")
+
     logging.basicConfig(
-        filename=f'{args.cache_dir}/{args.chapter}_logfile.log',  # Log file to write to
+        filename=f'{args.cache_dir}/{grade}{term}_logfile.log',  # Log file to write to
         filemode='w',  # Append to the log file if it exists, create if it does not
         format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
         level=logging.INFO  # Set to log INFO and higher level messages
     )
-
-    grade, term = extract_title(args.data_file)
-    cache_file = os.path.join(args.cache_dir, f"{args.data_type}_grade_{grade}_{term}.txt")
-    output_file = os.path.join(args.output_dir, f"{args.data_type}_grade_{grade}_{term}.json")
 
     unit_list_dict = extract_unit_list(args.unit_file)
     standard_unit_list = unit_list_dict[grade+term]

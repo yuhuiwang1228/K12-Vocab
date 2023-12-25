@@ -1,0 +1,11 @@
+12/24/2023 20:34:27 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/24/2023 20:34:27 - INFO - __main__ -   ***** extracting pdf *****
+12/24/2023 20:34:27 - INFO - __main__ -   Convert pdf to images
+12/24/2023 20:34:50 - INFO - __main__ -   Convert images to txt
+12/24/2023 20:45:49 - INFO - __main__ -   ***** getting vocabulary *****
+12/24/2023 20:45:49 - INFO - __main__ -   ***** processing text UNIT 1 PEOPLE OF ACHIEVEMENT *****
+12/24/2023 20:45:51 - INFO - __main__ -   ***** processing text UNIT 2 LOOKING INTO THE FUTURE *****
+12/24/2023 20:45:51 - INFO - __main__ -   ***** processing text UNIT 3 FASCINATING PARKS *****
+12/24/2023 20:45:51 - INFO - __main__ -   ***** processing text UNIT 4 BODY LANGUAGE *****
+12/24/2023 20:45:51 - INFO - __main__ -   ***** processing text UNIT 5 WORKING THE LAND *****
+12/24/2023 20:45:52 - INFO - __main__ -   saved json formatted vocabulary

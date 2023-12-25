@@ -1,0 +1,12 @@
+12/24/2023 21:17:36 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/24/2023 21:17:37 - INFO - __main__ -   ***** extracting pdf *****
+12/24/2023 21:17:37 - INFO - __main__ -   Convert pdf to images
+12/24/2023 21:18:00 - INFO - __main__ -   Convert images to txt
+12/24/2023 21:30:08 - INFO - __main__ -   ***** getting vocabulary *****
+12/24/2023 21:30:08 - INFO - __main__ -   ***** processing text UNIT 1 SCIENCE AND SCIENTISTS *****
+12/24/2023 21:30:09 - INFO - __main__ -   ***** processing text UNIT 2 BRIDGING CULTURES *****
+12/24/2023 21:30:10 - INFO - __main__ -   ***** processing text UNIT 3 FOOD AND CULTURE *****
+12/24/2023 21:30:10 - INFO - __main__ -   ***** processing text UNIT 4 JOURNEY ACROSS A VAST LAND *****
+12/24/2023 21:30:10 - INFO - __main__ -   ***** processing text UNIT5 FIRST AID
+ *****
+12/24/2023 21:30:11 - INFO - __main__ -   saved json formatted vocabulary

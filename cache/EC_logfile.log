@@ -1,0 +1,11 @@
+12/24/2023 21:37:04 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/24/2023 21:37:04 - INFO - __main__ -   ***** extracting pdf *****
+12/24/2023 21:37:04 - INFO - __main__ -   Convert pdf to images
+12/24/2023 21:37:29 - INFO - __main__ -   Convert images to txt
+12/24/2023 21:48:10 - INFO - __main__ -   ***** getting vocabulary *****
+12/24/2023 21:48:10 - INFO - __main__ -   ***** processing text UNIT 1 ART *****
+12/24/2023 21:48:12 - INFO - __main__ -   ***** processing text UNIT 2 HEALTHY LIFESTYLE *****
+12/24/2023 21:48:12 - INFO - __main__ -   ***** processing text UNIT 3 ENVIRONMENTAL PROTECTION *****
+12/24/2023 21:48:12 - INFO - __main__ -   ***** processing text UNIT 4 ADVERSITY AND COURAGE *****
+12/24/2023 21:48:12 - INFO - __main__ -   ***** processing text UNIT 5 POEMS *****
+12/24/2023 21:48:13 - INFO - __main__ -   saved json formatted vocabulary

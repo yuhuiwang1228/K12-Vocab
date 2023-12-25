@@ -1,0 +1,19 @@
+12/24/2023 20:16:44 - INFO - __main__ -   ***** extracting unit list for all textbooks *****
+12/24/2023 20:16:44 - INFO - __main__ -   ***** getting vocabulary *****
+12/24/2023 20:16:44 - INFO - __main__ -   ***** processing text Unit 1 My name's Gina. *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit2 This is my sister.
+ *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit 3 Is this your pencil? *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit 4 Wheres my schoolbag?
+ *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text UnitS Do you havea soccer ball?
+1 *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit6 Doyoulikebananas?
+I，  *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit 7 How much are these socks? *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit8 Whenisyourbirthday?
+
+1. *****
+12/24/2023 20:16:46 - INFO - __main__ -   ***** processing text Unit9 My favorite subject is science.
+ *****
+12/24/2023 20:16:47 - INFO - __main__ -   saved json formatted vocabulary
