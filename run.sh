@@ -1,4 +1,3 @@
-# sudo apt install libreoffice
 # sudo apt-get install -y poppler-utils
 # sudo apt-get install tesseract-ocr
 
@@ -20,72 +19,6 @@ python extract_vocab_frequency.py \
     --data_file "./人教版电子课本/小学/人教新起点英语1A电子课本.pdf" \
     --cache_dir "./cache" \
     --output_dir "./output" 
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语1B电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语2A电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语2B电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语3A电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语3B电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语4A电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语4B电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语5A电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语5B电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语6A电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
-
-python extract_vocab_frequency.py \
-    --data_file "./人教版电子课本/小学/人教新起点英语6B电子课本.pdf" \
-    --cache_dir "./cache" \
-    --output_dir "./output" \
-    --do_cache
 
 # data_file="${ebook_folder}/人教版Go for it英语七年级上册高清电子课本（清晰PDF）.pdf"
 # cache_dir="${ebook_folder}/电子课本/cache"

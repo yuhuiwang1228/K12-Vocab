@@ -2,6 +2,8 @@
 
 ## Setup
 ```
+sudo apt-get install -y poppler-utils
+sudo apt-get install tesseract-ocr
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 - [ ] [NLTK及nltk_data安装教程](https://www.jianshu.com/p/3cee73895eff)
