@@ -14,10 +14,10 @@ from docx import Document
 
 import nltk
 nltk.data.path.append('/home/ivanfung/nltk_data')
-nltk.download('punkt') # download_dir="/home/ivanfung/data"
 nltk.download('words')
-nltk.download('stopwords')
-nltk.download('wordnet')
+# nltk.download('punkt') 
+# nltk.download('stopwords')
+# nltk.download('wordnet')
 from nltk.corpus import words, stopwords
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 from nltk.tokenize import word_tokenize
