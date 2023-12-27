@@ -1,0 +1,8 @@
+python-docx
+pdf2image
+pytesseract
+pillow
+nltk
+pandas
+numpy
+FuzzyWuzzy
